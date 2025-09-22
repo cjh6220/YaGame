@@ -1,0 +1,12 @@
+Index,Id_Group,Id,Event_Type,Char_Slot,Char_Img,Char_Direction,Char_Offset,Ani_Trigger,Text_Name,Text_Script,Cam_Shake_Time,Cam_Shake_Pow,Delay,Auto,Voice,Sfx,Bgm,Fade_Time,Fade_Color,Cam_Trigger,Bg_img,Choice_Id
+1,101,101001,Event,1,dummy_1,Right,"-1.5, 0, 0",,,,,,,TRUE,,,,,,,,
+2,101,101002,Event,,,,,,,,,,,TRUE,,,,,,,bg_001,
+3,101,101003,Event,,,,,,,,,,,TRUE,,,bgm_001,,,,,
+4,101,101004,Dialogue,,,,,,Char_Name_001,Dial_101004,,,,,,,,,,,,
+5,101,101005,Dialogue,2,dummy_2,Left,"1.5, 0, 0",,Char_Name_002,Dial_101005,,,,,,,,,,,,
+6,101,101006,Dialogue,,,,,,Char_Name_001,Dial_101006,,,,,,,,,,,,
+7,101,101007,Dialogue,1,dummy_3,Right,"-1.5, 0, 0",,Char_Name_003,Dial_101007,,,,,,,,,,,,
+8,101,101008,Choice,,,,,,,,,,,,,,,,,,,10101
+9,102,102001,Dialogue,,,,,,,Dial_102001,,,,,,,,,,,,
+10,103,103001,Dialogue,,,,,,,Dial_103001,,,,,,,,,,,,
+11,104,104001,Dialogue,,,,,,,Dial_104001,,,,,,,,,,,,
